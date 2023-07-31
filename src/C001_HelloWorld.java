@@ -1,11 +1,9 @@
-package day01;
-
-public class C01_HelloJava {
+public class C001_HelloWorld {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello Java");
-        // Hello Java
+        System.out.println("Hello World");
+        // Hello World
 
         System.out.println("\"Hello World\"");
         // "Hello World"
@@ -19,7 +17,5 @@ public class C01_HelloJava {
         System.out.println("Hello\tWorld");
         // Hello	World
 
-
     }
-
 }

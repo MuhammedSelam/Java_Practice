@@ -1,6 +1,4 @@
-package day01;
-
-public class C02_dataTypes {
+public class C002_dataTypes {
 
     public static void main(String[] args) {
 
@@ -39,10 +37,6 @@ public class C02_dataTypes {
 
         char karakter='b';
         System.out.println("karakter : " + karakter); // karakter : b
-
-
-
-
 
     }
 }
